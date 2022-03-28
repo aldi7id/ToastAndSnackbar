@@ -11,11 +11,11 @@
         android:id="@+id/btn_toast"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Toast Button"/>
+        android:text="@string/toast_button"/>
     <Button
         android:id="@+id/btn_snackbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Snackbar Button"/>
+        android:text="@string/snackbar_button"/>
 
 </LinearLayout>
